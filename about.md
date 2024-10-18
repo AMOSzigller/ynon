@@ -1,29 +1,23 @@
 ---
 layout: page
-title: About
+title: אודות
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  ברוכים הבאים לבלוג האישי של ינון!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+היי, אני ינון, ואני אוהב לשתף את ההגיגים והמחשבות שלי על נושאים שונים שמעניינים אותי. 
+הבלוג הזה נועד לתת במה למחשבות, לרעיונות, ולדיונים פתוחים במגוון תחומים.
 
-There are currently two themes built on Poole:
+## קצת עלי:
+- אני אוהב לטייל, לקרוא ספרים, ולחקור נושאים חדשים.
+- חובב טכנולוגיה וחידושים.
+- אני תמיד מוכן לנסות דברים חדשים וללמוד מהחוויות.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## מטרת הבלוג:
+הבלוג הזה נוצר כדי לשתף את החוויות שלי, המחשבות והרעיונות, ולתת מקום לדיונים ולהשראה.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+אם יש לך שאלות, הערות או פשוט בא לך לשוחח, אל תהסס לפנות אלי!
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+תודה שקראת!
