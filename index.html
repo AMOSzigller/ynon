@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<div class="header">
+  <h1>ברוכים הבאים ל"הגיגים של ינון"</h1>
+  <p>כאן תמצאו את המחשבות וההגיגים של ינון על מגוון נושאים.</p>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -12,9 +17,9 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+    <span class="post-date">{{ post.date | date: "%d-%m-%Y" }}</span>
+    <p>{{ post.excerpt }}</p>
+    <a href="{{ post.url | absolute_url }}">קרא עוד</a>
   </div>
   {% endfor %}
 </div>
