@@ -8,6 +8,14 @@ title: Home
   <p>כאן תמצאו את המחשבות וההגיגים של ינון על מגוון נושאים.</p>
 </div>
 
+<!-- תפריט ניווט -->
+<nav>
+  <ul>
+    <li><a href="/">עמוד הבית</a></li>
+    <li><a href="{{ '/about/' | relative_url }}">אודות</a></li>
+  </ul>
+</nav>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
