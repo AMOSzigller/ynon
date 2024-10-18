@@ -1,6 +1,7 @@
 ---
 layout: page
-title: אודות
+title: "אודות"
+permalink: /about/
 ---
 
 <p class="message">
